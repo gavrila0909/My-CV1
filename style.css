@@ -1,0 +1,67 @@
+body{ background-color:#E5E5E5;;
+    font-family: 'Montserrat', sans-serif;}
+
+li { color: rgb(8, 30, 142);}
+
+ /* Right Section Style */
+.Main-section {display:flex; flex-direction:row-reverse; width: 1200; margin: 40px auto;}
+.Right-main-section { padding-left: 90px; padding-right: 90px;  background-color: #FFFFFF;}
+
+
+.About-me-section { width: 400px; margin-top: 60px;}
+.About-me-profesion {font-family: 'Montserrat';font-style: normal;font-weight: 700;font-size: 14px;line-height: 17px; color: black;}
+.My-name {font-style: normal;font-weight: 700;font-size: 45px;line-height: 55px; margin-top: 20px; padding: 0px;}
+.About-me-section p { font-family: 'Montserrat';font-style: normal;font-weight: 400;font-size: 14px;line-height: 24px; color: #595959;}
+
+.Title-section { font-family: 'Montserrat';font-style: normal;font-weight: 700;font-size: 22px;line-height: 27px;color: #000000; }
+
+.Project-section-style { margin-top: 40px; }
+.Project-item { font-family: 'Montserrat'; font-style: normal;font-weight: 400;font-size: 14px;line-height: 24px;text-decoration-line: underline;color: #595959; }
+.Project-section-style ul { padding-left: 20px;} 
+.Project-section-li {font-weight: 700; color:#595959 }
+.bracket {font-weight: 700; color: #000000; }
+.Project-item a { color: #595959;}
+
+
+.Work-experience-section {margin-top: 40px; }
+.Jobs { font-style: normal;font-weight: 700;font-size: 16px;line-height: 20px;} 
+.Jobs-place  { color: #FB6D3A;}
+.Work-period {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-size: 12px;line-height: 15px;color: #A8A8A8; }
+.Line-city {color: #000000; }
+.Ability li {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-size: 14px;line-height: 24px;color: #595959; }
+.Ability { padding-left: 20px; }
+
+
+.Education-section-style {margin-top: 40px; margin-bottom: 50px;}
+.Name-of-education { font-style: normal;font-weight: 700;font-size: 16px;line-height: 20px; color: #FB6D3A;}
+.Speciality {font-style: normal;font-weight: 700;font-size: 14px; line-height: 17px;  margin-top: 5px;}
+.Education-date {font-family: 'Montserrat';font-style: normal;font-weight: 400;font-size: 12px;line-height: 15px;color: #A8A8A8; } 
+
+
+ /* Sidebar Section Style */
+ img {width: 100%;}
+.sidebar-style {background-color: #1E2939; width: 370px;}
+.sidebar-style img { margin-top: 40px; margin-left: 20px; margin-right: 10px; width: 320px; height: 340px;}
+    
+.Contacts-style,.Tech-skills-style,.Soft-skills-style { margin-left: 40px;}
+
+.Contacts-style-title, .Tech-skills-title, .Soft-skills-title { font-style: normal;font-weight: 700;font-size: 22px;line-height: 27px;color: #FFFFFF;}
+.Tel-style, .E-mail-style {font-style: normal;font-weight: 700;font-size: 14px;line-height: 24px;color: #FFFFFF; margin-right: 10px;}
+
+.NR-style, .Mail-style {font-style: normal;font-weight: 400; font-size: 14px; line-height: 24px; text-decoration-line: underline; color: #575F6B; }
+
+.sidebar-first-list, .sidebar-second-list  { padding-left: 20px;}
+.sidebar-first-list li, .sidebar-second-list li { color: #FB6D3A; }
+.sidebar-first-list span, .sidebar-second-list span  {font-style: normal;font-weight: 400;font-size: 14px;line-height: 24px; color: #FFFFFF; }
+        
+        
+
+        
+
+
+
+
+
+     
+    
+    
